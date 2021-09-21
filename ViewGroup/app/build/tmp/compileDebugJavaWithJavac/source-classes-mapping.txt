@@ -1,0 +1,31 @@
+androidcourse/example/viewgroup/layouts/BuildConfig.java
+ androidcourse.example.viewgroup.layouts.BuildConfig
+androidcourse/examples/viewgroup/layouts/ConstraintLayoutActivity.java
+ androidcourse.examples.viewgroup.layouts.ConstraintLayoutActivity
+androidcourse/examples/viewgroup/layouts/MainLayoutActivity.java
+ androidcourse.examples.viewgroup.layouts.MainLayoutActivity
+androidcourse/examples/viewgroup/layouts/LinearLayoutActivity.java
+ androidcourse.examples.viewgroup.layouts.LinearLayoutActivity
+androidcourse/examples/viewgroup/layouts/RecyclerViewAdapter.java
+ androidcourse.examples.viewgroup.layouts.RecyclerViewAdapter
+ androidcourse.examples.viewgroup.layouts.RecyclerViewAdapter$1
+ androidcourse.examples.viewgroup.layouts.RecyclerViewAdapter$ViewHolder
+androidcourse/examples/viewgroup/layouts/RelativeLayoutActivity.java
+ androidcourse.examples.viewgroup.layouts.RelativeLayoutActivity
+androidcourse/examples/viewgroup/layouts/SimpleRelativeLayout.java
+ androidcourse.examples.viewgroup.layouts.SimpleRelativeLayout
+androidcourse/examples/viewgroup/layouts/ListViewLayoutActivity.java
+ androidcourse.examples.viewgroup.layouts.ListViewLayoutActivity
+ androidcourse.examples.viewgroup.layouts.ListViewLayoutActivity$1
+androidcourse/examples/viewgroup/layouts/DateAndTimeActivity.java
+ androidcourse.examples.viewgroup.layouts.DateAndTimeActivity
+ androidcourse.examples.viewgroup.layouts.DateAndTimeActivity$1
+ androidcourse.examples.viewgroup.layouts.DateAndTimeActivity$2
+androidcourse/examples/viewgroup/layouts/RecyclerViewActivity.java
+ androidcourse.examples.viewgroup.layouts.RecyclerViewActivity
+androidcourse/examples/viewgroup/layouts/SimpleLinearLayout.java
+ androidcourse.examples.viewgroup.layouts.SimpleLinearLayout
+androidcourse/examples/viewgroup/layouts/ScrollViewLayoutActivity.java
+ androidcourse.examples.viewgroup.layouts.ScrollViewLayoutActivity
+androidcourse/examples/viewgroup/layouts/SharedPreferencesActivity.java
+ androidcourse.examples.viewgroup.layouts.SharedPreferencesActivity

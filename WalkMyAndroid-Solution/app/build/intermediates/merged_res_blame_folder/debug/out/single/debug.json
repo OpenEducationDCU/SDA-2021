@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\layout-land_activity_main.xml.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\animator_rotate.xml.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\animator\\rotate.xml"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\drawable_android_plain.xml.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\drawable\\android_plain.xml"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\WalkMyAndroid-Solution\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

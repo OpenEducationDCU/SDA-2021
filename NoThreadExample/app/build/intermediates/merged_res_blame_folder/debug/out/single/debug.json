@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NoThreadExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NoThreadExample\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NoThreadExample\\app\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NoThreadExample\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NoThreadExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_painter.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NoThreadExample\\app\\src\\main\\res\\drawable-hdpi\\painter.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NoThreadExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NoThreadExample\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NoThreadExample\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NoThreadExample\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]

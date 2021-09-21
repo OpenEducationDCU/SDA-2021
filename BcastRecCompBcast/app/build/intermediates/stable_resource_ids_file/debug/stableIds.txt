@@ -1,0 +1,14 @@
+course.examples.broadcastreceiver.compoundbroadcast:string/broadcast_intent_string = 0x7f060001
+course.examples.broadcastreceiver.compoundbroadcast:style/MaterialTheme = 0x7f070000
+course.examples.broadcastreceiver.compoundbroadcast:string/app_name = 0x7f060000
+course.examples.broadcastreceiver.compoundbroadcast:id/button = 0x7f030000
+course.examples.broadcastreceiver.compoundbroadcast:dimen/activity_margin = 0x7f020000
+course.examples.broadcastreceiver.compoundbroadcast:color/secondary_text = 0x7f010005
+course.examples.broadcastreceiver.compoundbroadcast:color/primary_text = 0x7f010004
+course.examples.broadcastreceiver.compoundbroadcast:color/primary_dark = 0x7f010003
+course.examples.broadcastreceiver.compoundbroadcast:color/primary = 0x7f010002
+course.examples.broadcastreceiver.compoundbroadcast:mipmap/ic_launcher = 0x7f050000
+course.examples.broadcastreceiver.compoundbroadcast:color/edit_text = 0x7f010001
+course.examples.broadcastreceiver.compoundbroadcast:layout/main = 0x7f040000
+course.examples.broadcastreceiver.compoundbroadcast:color/white = 0x7f010006
+course.examples.broadcastreceiver.compoundbroadcast:color/accent = 0x7f010000

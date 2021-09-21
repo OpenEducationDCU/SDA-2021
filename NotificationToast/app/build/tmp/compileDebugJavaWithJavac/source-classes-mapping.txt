@@ -1,0 +1,4 @@
+course/examples/notification/toast/NotificationToastActivity.java
+ course.examples.notification.toast.NotificationToastActivity
+course/examples/notification/toast/BuildConfig.java
+ course.examples.notification.toast.BuildConfig

@@ -1,0 +1,8 @@
+androidcourse.examples.Threads.NoThreading:string/app_name = 0x7f040000
+androidcourse.examples.Threads.NoThreading:layout/main = 0x7f030000
+androidcourse.examples.Threads.NoThreading:id/imageView = 0x7f020000
+androidcourse.examples.Threads.NoThreading:id/otherButton = 0x7f020002
+androidcourse.examples.Threads.NoThreading:drawable/icon = 0x7f010000
+androidcourse.examples.Threads.NoThreading:drawable/painter = 0x7f010001
+androidcourse.examples.Threads.NoThreading:string/hello = 0x7f040001
+androidcourse.examples.Threads.NoThreading:id/loadButton = 0x7f020001

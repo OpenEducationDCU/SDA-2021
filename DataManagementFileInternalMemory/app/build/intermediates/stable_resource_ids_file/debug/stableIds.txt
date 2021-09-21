@@ -1,0 +1,15 @@
+course.examples.datamanagement.fileinternal:string/app_name = 0x7f060000
+course.examples.datamanagement.fileinternal:mipmap/ic_launcher = 0x7f050000
+course.examples.datamanagement.fileinternal:layout/main = 0x7f040000
+course.examples.datamanagement.fileinternal:color/primary = 0x7f010003
+course.examples.datamanagement.fileinternal:dimen/activity_margin = 0x7f020000
+course.examples.datamanagement.fileinternal:style/MaterialTheme = 0x7f070000
+course.examples.datamanagement.fileinternal:id/scrollView1 = 0x7f030000
+course.examples.datamanagement.fileinternal:color/secondary_text = 0x7f010007
+course.examples.datamanagement.fileinternal:color/primary_light = 0x7f010005
+course.examples.datamanagement.fileinternal:color/primary_dark = 0x7f010004
+course.examples.datamanagement.fileinternal:id/textview = 0x7f030001
+course.examples.datamanagement.fileinternal:color/primary_text = 0x7f010006
+course.examples.datamanagement.fileinternal:color/icons = 0x7f010002
+course.examples.datamanagement.fileinternal:color/divider = 0x7f010001
+course.examples.datamanagement.fileinternal:color/accent = 0x7f010000

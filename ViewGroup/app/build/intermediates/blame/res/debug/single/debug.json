@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_constraint_layout.xml.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\layout\\activity_constraint_layout.xml"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_list_item.xml.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\layout\\recycler_list_item.xml"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\layout_linear_simple_layout.xml.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\layout\\linear_simple_layout.xml"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_capture.jpg.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\drawable-hdpi\\capture.jpg"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\layout_shared_preferences_layout.xml.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\layout\\shared_preferences_layout.xml"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recycler_view.xml.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\layout\\activity_recycler_view.xml"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\layout_date_time_layout.xml.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\layout\\date_time_layout.xml"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_capture.jpg.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\drawable-xhdpi\\capture.jpg"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\layout_scrollview_layout.xml.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\layout\\scrollview_layout.xml"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_strawberries.png.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\drawable-mdpi\\strawberries.png"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_capture.jpg.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\drawable-ldpi\\capture.jpg"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_strawberries.png.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\drawable-ldpi\\strawberries.png"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_strawberries.png.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\drawable-xhdpi\\strawberries.png"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_layout.xml.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\layout\\listview_layout.xml"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\layout_relative_layout.xml.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\layout\\relative_layout.xml"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_capture.jpg.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\drawable-mdpi\\capture.jpg"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\layout_simplerelative.xml.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\layout\\simplerelative.xml"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_layout.xml.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\layout\\activity_main_layout.xml"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_strawberries.png.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\drawable-hdpi\\strawberries.png"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\SDA-2020\\ViewGroup\\app\\build\\intermediates\\res\\merged\\debug\\layout_linear_layout.xml.flat",
+        "source": "E:\\SDA-2020\\ViewGroup\\app\\src\\main\\res\\layout\\linear_layout.xml"
+    }
+]

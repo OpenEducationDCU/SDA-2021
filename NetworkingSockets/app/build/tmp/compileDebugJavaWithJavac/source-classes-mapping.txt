@@ -1,0 +1,6 @@
+course/examples/networking/sockets/NetworkingSocketsActivity.java
+ course.examples.networking.sockets.NetworkingSocketsActivity
+ course.examples.networking.sockets.NetworkingSocketsActivity$1
+ course.examples.networking.sockets.NetworkingSocketsActivity$HttpGetTask
+course/examples/networking/sockets/BuildConfig.java
+ course.examples.networking.sockets.BuildConfig

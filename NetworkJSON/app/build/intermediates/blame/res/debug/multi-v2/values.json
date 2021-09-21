@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\SDA-2020\\NetworkJSON\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\SDA-2020\\NetworkJSON\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,5",
+                        "startOffsets": "57,108",
+                        "endColumns": "48,55",
+                        "endOffsets": "101,158"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,104",
+                        "endColumns": "48,54",
+                        "endOffsets": "99,154"
+                    }
+                }
+            ]
+        }
+    ]
+}

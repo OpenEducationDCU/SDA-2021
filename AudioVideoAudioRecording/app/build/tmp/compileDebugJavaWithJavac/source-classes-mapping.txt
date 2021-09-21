@@ -1,0 +1,8 @@
+course/examples/audiovideo/audiorecording/BuildConfig.java
+ course.examples.audiovideo.audiorecording.BuildConfig
+course/examples/audiovideo/audiorecording/AudioRecordingActivity.java
+ course.examples.audiovideo.audiorecording.AudioRecordingActivity
+ course.examples.audiovideo.audiorecording.AudioRecordingActivity$1
+ course.examples.audiovideo.audiorecording.AudioRecordingActivity$2
+ course.examples.audiovideo.audiorecording.AudioRecordingActivity$3
+ course.examples.audiovideo.audiorecording.AudioRecordingActivity$4

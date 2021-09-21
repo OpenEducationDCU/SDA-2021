@@ -1,0 +1,48 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="course.examples.newmaplocationfromcontacts"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_CONTACTS" >
+11-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml:8:5-9:23
+11-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml:8:22-69
+12    </uses-permission>
+13
+14    <application
+14-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml:11:5-24:19
+15        android:allowBackup="false"
+15-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml:12:9-36
+16        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+16-->[com.android.support:support-compat:28.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\192ad8f6a0f651ff9f10305663e68198\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@drawable/ic_launcher"
+19-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml:13:9-45
+20        android:testOnly="true" >
+21        <activity
+21-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml:15:9-23:20
+22            android:name="course.examples.newmaplocationfromcontacts.NewMapLocationFromContactsActivity"
+22-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml:16:13-63
+23            android:label="NewMapLocationFromContacts" >
+23-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml:17:13-55
+24            <intent-filter>
+24-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml:18:13-22:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml:19:17-69
+25-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml:19:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml:21:17-77
+27-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\RevisedMapLocationFromContacts\app\src\main\AndroidManifest.xml:21:27-74
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>

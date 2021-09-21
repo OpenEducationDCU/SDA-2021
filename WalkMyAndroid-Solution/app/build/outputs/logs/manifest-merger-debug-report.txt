@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:17:1-39:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\5a04e77f8117fbd322cf993be49e16fa\transformed\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BFaghih\.gradle\caches\transforms-3\113d0121527bf7f377e0ae71c28781ed\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\0d100be7ce0ac88b49428289fc0e281a\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\7adb15563f6c430089a337c415b07142\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\4363d829c6554fbdf4deeedbafe018fc\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\e27254e3f0a936ad1ce8e51cfd3ec8c0\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\04c41a622b11bbd1762f8b6dda91ff26\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\2c9faef1fdc1e20cefd8286f1e67826b\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\4e1861a3bfafe57ad70b34a2ff25a854\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\8e7fd72d87e20ae04ebd28a5f9e79b11\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\22a51f44cdda660ee1b80324ead41660\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\875ecb51d934b714383279d37fbbf224\transformed\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\cc799678192709bceae81fa20a37187c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\780765cea0c567bec6ca8db99cd43cba\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\244493283b924bdab6270ba5f46952f0\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\9e5bac1f89003abf622e3422923228db\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\058d6c0c5747b5b4ce36017fadd3626c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\c737135e2039c6aa4422151570c825bf\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\7f12bd1a771dd87c830f5d5a90fbdbe2\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\4666547609bee097a70e3acc6d3c3166\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\5361b816e6f2da664451b7e3ccffadc9\transformed\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\6af5363b93eff127f65ba8f19c7b40af\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\6b80c278120ff42ff6ece3f9d926c639\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\76dac7040aa29b038c35edfe1bf83d0c\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\989dfec6fc7a4daefb140f0c011fcef1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\8ca7186ef83368b8549809152ed428ce\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\485578c608519582fc751ff2f7c88476\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\463baad8aabd0e507d1917d5cb1c99f5\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\bc210aa728a4eeea33d4ed954c0cfcd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\cf8ca0b38745219b010b20e3080e51d9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\f07d901af75c0e63256d6d0ab15ab0e0\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\140757696eca7ec1efbdf7371a4acde0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:17:1-39:12
+	package
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:18:5-48
+		INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:17:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:20:22-76
+application
+ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:22:5-37:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BFaghih\.gradle\caches\transforms-3\113d0121527bf7f377e0ae71c28781ed\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BFaghih\.gradle\caches\transforms-3\113d0121527bf7f377e0ae71c28781ed\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\0d100be7ce0ac88b49428289fc0e281a\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\0d100be7ce0ac88b49428289fc0e281a\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\7adb15563f6c430089a337c415b07142\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\7adb15563f6c430089a337c415b07142\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\4363d829c6554fbdf4deeedbafe018fc\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\4363d829c6554fbdf4deeedbafe018fc\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\e27254e3f0a936ad1ce8e51cfd3ec8c0\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\e27254e3f0a936ad1ce8e51cfd3ec8c0\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\04c41a622b11bbd1762f8b6dda91ff26\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\04c41a622b11bbd1762f8b6dda91ff26\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\5361b816e6f2da664451b7e3ccffadc9\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\5361b816e6f2da664451b7e3ccffadc9\transformed\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\6af5363b93eff127f65ba8f19c7b40af\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\6af5363b93eff127f65ba8f19c7b40af\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\5361b816e6f2da664451b7e3ccffadc9\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:25:9-41
+	android:roundIcon
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:26:9-54
+	android:icon
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:28:9-40
+activity#com.example.android.walkmyandroid.MainActivity
+ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\5a04e77f8117fbd322cf993be49e16fa\transformed\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\5a04e77f8117fbd322cf993be49e16fa\transformed\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BFaghih\.gradle\caches\transforms-3\113d0121527bf7f377e0ae71c28781ed\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BFaghih\.gradle\caches\transforms-3\113d0121527bf7f377e0ae71c28781ed\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\0d100be7ce0ac88b49428289fc0e281a\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\0d100be7ce0ac88b49428289fc0e281a\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\7adb15563f6c430089a337c415b07142\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\7adb15563f6c430089a337c415b07142\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\4363d829c6554fbdf4deeedbafe018fc\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\4363d829c6554fbdf4deeedbafe018fc\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\e27254e3f0a936ad1ce8e51cfd3ec8c0\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\e27254e3f0a936ad1ce8e51cfd3ec8c0\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\04c41a622b11bbd1762f8b6dda91ff26\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\04c41a622b11bbd1762f8b6dda91ff26\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\2c9faef1fdc1e20cefd8286f1e67826b\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\2c9faef1fdc1e20cefd8286f1e67826b\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\4e1861a3bfafe57ad70b34a2ff25a854\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\4e1861a3bfafe57ad70b34a2ff25a854\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\8e7fd72d87e20ae04ebd28a5f9e79b11\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\8e7fd72d87e20ae04ebd28a5f9e79b11\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\22a51f44cdda660ee1b80324ead41660\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\22a51f44cdda660ee1b80324ead41660\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\875ecb51d934b714383279d37fbbf224\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\875ecb51d934b714383279d37fbbf224\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\cc799678192709bceae81fa20a37187c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\cc799678192709bceae81fa20a37187c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\780765cea0c567bec6ca8db99cd43cba\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\780765cea0c567bec6ca8db99cd43cba\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\244493283b924bdab6270ba5f46952f0\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\244493283b924bdab6270ba5f46952f0\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\9e5bac1f89003abf622e3422923228db\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\9e5bac1f89003abf622e3422923228db\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\058d6c0c5747b5b4ce36017fadd3626c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\058d6c0c5747b5b4ce36017fadd3626c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\c737135e2039c6aa4422151570c825bf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\c737135e2039c6aa4422151570c825bf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\7f12bd1a771dd87c830f5d5a90fbdbe2\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\7f12bd1a771dd87c830f5d5a90fbdbe2\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\4666547609bee097a70e3acc6d3c3166\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\4666547609bee097a70e3acc6d3c3166\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\5361b816e6f2da664451b7e3ccffadc9\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\5361b816e6f2da664451b7e3ccffadc9\transformed\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\6af5363b93eff127f65ba8f19c7b40af\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\6af5363b93eff127f65ba8f19c7b40af\transformed\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\6b80c278120ff42ff6ece3f9d926c639\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\6b80c278120ff42ff6ece3f9d926c639\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\76dac7040aa29b038c35edfe1bf83d0c\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\76dac7040aa29b038c35edfe1bf83d0c\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\989dfec6fc7a4daefb140f0c011fcef1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\989dfec6fc7a4daefb140f0c011fcef1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\8ca7186ef83368b8549809152ed428ce\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\8ca7186ef83368b8549809152ed428ce\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\485578c608519582fc751ff2f7c88476\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\485578c608519582fc751ff2f7c88476\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\463baad8aabd0e507d1917d5cb1c99f5\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\463baad8aabd0e507d1917d5cb1c99f5\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\bc210aa728a4eeea33d4ed954c0cfcd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\bc210aa728a4eeea33d4ed954c0cfcd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\cf8ca0b38745219b010b20e3080e51d9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\cf8ca0b38745219b010b20e3080e51d9\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\f07d901af75c0e63256d6d0ab15ab0e0\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\f07d901af75c0e63256d6d0ab15ab0e0\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\140757696eca7ec1efbdf7371a4acde0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\140757696eca7ec1efbdf7371a4acde0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+		ADDED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SDA\2021\SDA-2020-master\SDA-2020-master\WalkMyAndroid-Solution\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\7adb15563f6c430089a337c415b07142\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\7adb15563f6c430089a337c415b07142\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\7adb15563f6c430089a337c415b07142\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\7adb15563f6c430089a337c415b07142\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\04c41a622b11bbd1762f8b6dda91ff26\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\04c41a622b11bbd1762f8b6dda91ff26\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\04c41a622b11bbd1762f8b6dda91ff26\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

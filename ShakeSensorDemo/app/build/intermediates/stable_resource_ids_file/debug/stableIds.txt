@@ -1,0 +1,10 @@
+edu.dartmouth.cs.shakesensordemo:string/ui_shake_title = 0x7f040002
+edu.dartmouth.cs.shakesensordemo:id/zval = 0x7f020004
+edu.dartmouth.cs.shakesensordemo:id/xval = 0x7f020002
+edu.dartmouth.cs.shakesensordemo:layout/main = 0x7f030000
+edu.dartmouth.cs.shakesensordemo:id/textView = 0x7f020001
+edu.dartmouth.cs.shakesensordemo:string/hello = 0x7f040001
+edu.dartmouth.cs.shakesensordemo:id/yval = 0x7f020003
+edu.dartmouth.cs.shakesensordemo:string/app_name = 0x7f040000
+edu.dartmouth.cs.shakesensordemo:id/relative = 0x7f020000
+edu.dartmouth.cs.shakesensordemo:drawable/ic_icon = 0x7f010000

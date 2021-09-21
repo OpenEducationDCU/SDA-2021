@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\MusicPlayingServiceExample\\app\\build\\intermediates\\merged_res\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\MusicPlayingServiceExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,128,191",
+                        "endColumns": "72,62,60",
+                        "endOffsets": "123,186,247"
+                    }
+                }
+            ]
+        }
+    ]
+}

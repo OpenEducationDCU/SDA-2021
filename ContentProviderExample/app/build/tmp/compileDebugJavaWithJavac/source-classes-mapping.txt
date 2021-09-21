@@ -1,0 +1,4 @@
+course/examples/contentproviders/contactslist/BuildConfig.java
+ course.examples.contentproviders.contactslist.BuildConfig
+course/examples/contentproviders/contactslist/ContactsListExample.java
+ course.examples.contentproviders.contactslist.ContactsListExample

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\DataManagementFileInternalMemory\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\DataManagementFileInternalMemory\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\DataManagementFileInternalMemory\\app\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\DataManagementFileInternalMemory\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\DataManagementFileInternalMemory\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\DataManagementFileInternalMemory\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\DataManagementFileInternalMemory\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\DataManagementFileInternalMemory\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\DataManagementFileInternalMemory\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\DataManagementFileInternalMemory\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\notifydemo\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_stat_access_alarm.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\notifydemo\\app\\src\\main\\res\\drawable\\ic_stat_access_alarm.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\notifydemo\\app\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\notifydemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\notifydemo\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\notifydemo\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\notifydemo\\app\\build\\intermediates\\merged_res\\debug\\raw_alarm_rooster.mp3.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\notifydemo\\app\\src\\main\\res\\raw\\alarm_rooster.mp3"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkXML\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkXML\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkXML\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkXML\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkXML\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkXML\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkXML\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkXML\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkXML\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkXML\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkXML\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkXML\\app\\src\\main\\res\\layout\\list_item.xml"
+    }
+]

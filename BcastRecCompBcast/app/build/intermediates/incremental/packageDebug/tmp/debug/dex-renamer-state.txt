@@ -1,0 +1,7 @@
+#Tue Sep 21 13:06:07 BST 2021
+base.1=C\:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\BcastRecCompBcast\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+path.1=10/classes.dex
+base.0=C\:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\BcastRecCompBcast\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

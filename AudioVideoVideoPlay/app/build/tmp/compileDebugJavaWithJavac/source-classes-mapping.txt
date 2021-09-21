@@ -1,0 +1,5 @@
+course/examples/audiovideo/videoplay/AudioVideoVideoPlayActivity.java
+ course.examples.audiovideo.videoplay.AudioVideoVideoPlayActivity
+ course.examples.audiovideo.videoplay.AudioVideoVideoPlayActivity$1
+course/examples/audiovideo/videoplay/BuildConfig.java
+ course.examples.audiovideo.videoplay.BuildConfig

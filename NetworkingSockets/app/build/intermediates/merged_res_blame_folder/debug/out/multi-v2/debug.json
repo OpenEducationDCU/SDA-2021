@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkingSockets\\app\\build\\intermediates\\merged_res\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\SDA\\2021\\SDA-2020-master\\SDA-2020-master\\NetworkingSockets\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,111",
+                        "endColumns": "54,54",
+                        "endOffsets": "106,161"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,54",
+                        "endOffsets": "105,160"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+course.examples.networking.androidhttpclientxml:string/app_name = 0x7f050000
+course.examples.networking.androidhttpclientxml:drawable/ic_launcher = 0x7f020000
+course.examples.networking.androidhttpclientxml:layout/list_item = 0x7f040001
+course.examples.networking.androidhttpclientxml:layout/activity_main = 0x7f040000
+course.examples.networking.androidhttpclientxml:id/button1 = 0x7f030000
+course.examples.networking.androidhttpclientxml:string/load_data_string = 0x7f050001
+course.examples.networking.androidhttpclientxml:dimen/activity_vertical_margin = 0x7f010001
+course.examples.networking.androidhttpclientxml:dimen/activity_horizontal_margin = 0x7f010000

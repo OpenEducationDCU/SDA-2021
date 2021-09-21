@@ -1,0 +1,15 @@
+course.examples.audiovideo.videoplay:style/MaterialTheme = 0x7f080000
+course.examples.audiovideo.videoplay:string/app_name = 0x7f070000
+course.examples.audiovideo.videoplay:dimen/content_area_space = 0x7f020001
+course.examples.audiovideo.videoplay:dimen/activity_margin = 0x7f020000
+course.examples.audiovideo.videoplay:color/secondary_text = 0x7f010005
+course.examples.audiovideo.videoplay:id/videoViewer = 0x7f030000
+course.examples.audiovideo.videoplay:color/white = 0x7f010006
+course.examples.audiovideo.videoplay:layout/main = 0x7f040000
+course.examples.audiovideo.videoplay:raw/moon = 0x7f060000
+course.examples.audiovideo.videoplay:color/primary_text = 0x7f010004
+course.examples.audiovideo.videoplay:color/primary_dark = 0x7f010003
+course.examples.audiovideo.videoplay:color/accent = 0x7f010000
+course.examples.audiovideo.videoplay:color/primary = 0x7f010002
+course.examples.audiovideo.videoplay:mipmap/ic_launcher = 0x7f050000
+course.examples.audiovideo.videoplay:color/edit_text = 0x7f010001

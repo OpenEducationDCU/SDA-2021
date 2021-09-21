@@ -1,0 +1,9 @@
+course/examples/networking/xml/BuildConfig.java
+ course.examples.networking.xml.BuildConfig
+course/examples/networking/xml/MainActivity.java
+ course.examples.networking.xml.MainActivity
+ course.examples.networking.xml.MainActivity$1
+course/examples/networking/xml/NetworkingXMLActivity.java
+ course.examples.networking.xml.NetworkingXMLActivity
+ course.examples.networking.xml.NetworkingXMLActivity$1
+ course.examples.networking.xml.NetworkingXMLActivity$HttpGetTask

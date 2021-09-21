@@ -1,0 +1,4 @@
+course/examples/datamanagement/fileinternal/InternalFileWriteReadActivity.java
+ course.examples.datamanagement.fileinternal.InternalFileWriteReadActivity
+course/examples/datamanagement/fileinternal/BuildConfig.java
+ course.examples.datamanagement.fileinternal.BuildConfig

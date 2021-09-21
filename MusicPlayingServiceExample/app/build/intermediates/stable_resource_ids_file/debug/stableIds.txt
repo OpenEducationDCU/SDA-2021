@@ -1,0 +1,8 @@
+course.examples.services.musicservice:string/start_service_string = 0x7f050001
+course.examples.services.musicservice:string/app_name = 0x7f050000
+course.examples.services.musicservice:layout/main = 0x7f030000
+course.examples.services.musicservice:id/start_button = 0x7f020000
+course.examples.services.musicservice:raw/badnews = 0x7f040000
+course.examples.services.musicservice:string/stop_service_string = 0x7f050002
+course.examples.services.musicservice:id/stop_button = 0x7f020001
+course.examples.services.musicservice:drawable/ic_launcher = 0x7f010000

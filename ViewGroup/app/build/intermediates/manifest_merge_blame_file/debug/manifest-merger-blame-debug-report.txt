@@ -1,0 +1,81 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="androidcourse.example.viewgroup.layouts"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml
+10    <!-- so we can contact github for glide -->
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:8:5-66
+11-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:8:22-64
+12
+13    <application
+13-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:10:5-35:19
+14        android:allowBackup="true"
+14-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:11:9-35
+15        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+15-->[com.android.support:support-compat:28.0.0] C:\Users\BFaghih\.gradle\caches\transforms-3\192ad8f6a0f651ff9f10305663e68198\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:icon="@drawable/ic_launcher"
+18-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:12:9-45
+19        android:label="@string/app_name"
+19-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:13:9-41
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:14:9-40
+22        <activity android:name="androidcourse.examples.viewgroup.layouts.RecyclerViewActivity" />
+22-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:16:9-98
+22-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:16:19-95
+23        <activity
+23-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:17:9-25:20
+24            android:name="androidcourse.examples.viewgroup.layouts.MainLayoutActivity"
+24-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:18:13-87
+25            android:label="@string/app_name" >
+25-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:19:13-45
+26            <intent-filter>
+26-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:20:13-24:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:21:17-69
+27-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:21:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:23:17-77
+29-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:23:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity android:name="androidcourse.examples.viewgroup.layouts.ConstraintLayoutActivity" />
+32-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:26:9-102
+32-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:26:19-99
+33        <activity android:name="androidcourse.examples.viewgroup.layouts.SimpleLinearLayout" />
+33-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:27:9-96
+33-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:27:19-93
+34        <activity android:name="androidcourse.examples.viewgroup.layouts.SimpleRelativeLayout" />
+34-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:28:9-98
+34-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:28:19-95
+35        <activity android:name="androidcourse.examples.viewgroup.layouts.LinearLayoutActivity" />
+35-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:29:9-98
+35-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:29:19-95
+36        <activity android:name="androidcourse.examples.viewgroup.layouts.RelativeLayoutActivity" />
+36-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:30:9-100
+36-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:30:19-97
+37        <activity android:name="androidcourse.examples.viewgroup.layouts.ScrollViewLayoutActivity" />
+37-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:31:9-102
+37-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:31:19-99
+38        <activity android:name="androidcourse.examples.viewgroup.layouts.ListViewLayoutActivity" />
+38-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:32:9-100
+38-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:32:19-97
+39        <activity android:name="androidcourse.examples.viewgroup.layouts.DateAndTimeActivity" />
+39-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:33:9-97
+39-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:33:19-94
+40        <activity android:name="androidcourse.examples.viewgroup.layouts.SharedPreferencesActivity" />
+40-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:34:9-103
+40-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\ViewGroup\app\src\main\AndroidManifest.xml:34:19-100
+41    </application>
+42
+43</manifest>

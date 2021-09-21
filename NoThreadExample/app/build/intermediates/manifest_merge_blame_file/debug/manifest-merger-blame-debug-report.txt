@@ -1,0 +1,51 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="androidcourse.examples.Threads.NoThreading"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" >
+11-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:7:7-8:25
+11-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:7:24-66
+12    </uses-permission>
+13    <!--
+14     Starting with Android 9 (API level 28), cleartext support is disabled by default
+15    so it is overridden here in application usesCleartextTraffic="true".
+16    -->
+17    <application
+17-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:13:5-21:19
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:icon="@drawable/icon"
+20-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:13:18-47
+21        android:label="@string/app_name"
+21-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:13:48-80
+22        android:testOnly="true"
+23        android:usesCleartextTraffic="true" >
+23-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:13:121-156
+24        <activity
+24-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:14:9-19:20
+25            android:name="androidcourse.examples.Threads.NoThreading.NoThreadExample"
+25-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:14:19-92
+26            android:label="@string/app_name" >
+26-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:14:93-125
+27            <intent-filter>
+27-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:15:13-18:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:16:17-69
+28-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:16:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:17:17-77
+30-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\NoThreadExample\app\src\main\AndroidManifest.xml:17:27-74
+31            </intent-filter>
+32        </activity>
+33    </application>
+34
+35</manifest>

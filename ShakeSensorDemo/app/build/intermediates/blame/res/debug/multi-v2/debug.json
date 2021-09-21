@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\SDA-2020\\ShakeSensorDemo\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\SDA-2020\\ShakeSensorDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "120,59,170",
+                        "endColumns": "48,59,83",
+                        "endOffsets": "164,114,249"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,104,164",
+                        "endColumns": "48,59,83",
+                        "endOffsets": "99,159,243"
+                    }
+                }
+            ]
+        }
+    ]
+}

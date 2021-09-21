@@ -1,0 +1,5 @@
+course/examples/threading/threadingsimple/SimpleThreadingExample.java
+ course.examples.threading.threadingsimple.SimpleThreadingExample
+ course.examples.threading.threadingsimple.SimpleThreadingExample$1
+course/examples/threading/threadingsimple/BuildConfig.java
+ course.examples.threading.threadingsimple.BuildConfig

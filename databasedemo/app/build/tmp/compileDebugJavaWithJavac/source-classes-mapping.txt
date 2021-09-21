@@ -1,0 +1,10 @@
+edu/oscail/cs/databasedemo/MySQLiteHelper.java
+ edu.oscail.cs.databasedemo.MySQLiteHelper
+edu/oscail/cs/databasedemo/BuildConfig.java
+ edu.oscail.cs.databasedemo.BuildConfig
+edu/oscail/cs/databasedemo/Comment.java
+ edu.oscail.cs.databasedemo.Comment
+edu/oscail/cs/databasedemo/TestDatabaseActivity.java
+ edu.oscail.cs.databasedemo.TestDatabaseActivity
+edu/oscail/cs/databasedemo/CommentsDataSource.java
+ edu.oscail.cs.databasedemo.CommentsDataSource

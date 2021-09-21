@@ -1,0 +1,4 @@
+edu/dartmouth/cs/shakesensordemo/BuildConfig.java
+ edu.dartmouth.cs.shakesensordemo.BuildConfig
+edu/dartmouth/cs/shakesensordemo/SensorTestActivity.java
+ edu.dartmouth.cs.shakesensordemo.SensorTestActivity

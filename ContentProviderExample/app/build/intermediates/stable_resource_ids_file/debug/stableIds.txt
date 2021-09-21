@@ -1,0 +1,12 @@
+course.examples.contentproviders.contactslist:style/MaterialTheme = 0x7f060000
+course.examples.contentproviders.contactslist:layout/list_item = 0x7f030000
+course.examples.contentproviders.contactslist:color/secondary_text = 0x7f010005
+course.examples.contentproviders.contactslist:dimen/activity_margin = 0x7f020000
+course.examples.contentproviders.contactslist:string/app_name = 0x7f050000
+course.examples.contentproviders.contactslist:color/primary_text = 0x7f010004
+course.examples.contentproviders.contactslist:color/primary = 0x7f010002
+course.examples.contentproviders.contactslist:string/need_perms_string = 0x7f050001
+course.examples.contentproviders.contactslist:color/accent = 0x7f010000
+course.examples.contentproviders.contactslist:color/primary_dark = 0x7f010003
+course.examples.contentproviders.contactslist:mipmap/ic_launcher = 0x7f040000
+course.examples.contentproviders.contactslist:color/edit_text = 0x7f010001

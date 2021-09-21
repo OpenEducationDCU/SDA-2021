@@ -1,0 +1,11 @@
+edu/dartmouth/cs/binddemo/MyService.java
+ edu.dartmouth.cs.binddemo.MyService
+ edu.dartmouth.cs.binddemo.MyService$1
+ edu.dartmouth.cs.binddemo.MyService$IncomingMessageHandler
+ edu.dartmouth.cs.binddemo.MyService$MyTask
+edu/dartmouth/cs/binddemo/BuildConfig.java
+ edu.dartmouth.cs.binddemo.BuildConfig
+edu/dartmouth/cs/binddemo/MainActivity.java
+ edu.dartmouth.cs.binddemo.MainActivity
+ edu.dartmouth.cs.binddemo.MainActivity$1
+ edu.dartmouth.cs.binddemo.MainActivity$IncomingMessageHandler

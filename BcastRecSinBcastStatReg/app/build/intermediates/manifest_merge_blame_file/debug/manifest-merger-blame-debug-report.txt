@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="course.examples.broadcastreceiver.singlebroadcaststaticregistration" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="23"
+6-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="30" />
+7-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.VIBRATE" />
+9-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:5:4-65
+9-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:5:21-62
+10
+11    <application
+11-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:7:5-30:19
+12        android:allowBackup="false"
+12-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:8:9-36
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:9:9-43
+16        android:label="@string/app_name"
+16-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:10:9-41
+17        android:testOnly="true"
+18        android:theme="@style/MaterialTheme" >
+18-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:11:9-45
+19        <activity
+19-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:12:9-20:20
+20            android:name="course.examples.broadcastreceiver.singlebroadcaststaticregistration.SimpleBroadcastActivity"
+20-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:13:13-52
+21            android:label="@string/app_name" >
+21-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:14:13-45
+22            <intent-filter>
+22-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:15:13-19:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:16:17-69
+23-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:16:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:18:17-77
+25-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:18:27-74
+26            </intent-filter>
+27        </activity>
+28
+29        <receiver
+29-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:22:9-29:20
+30            android:name="course.examples.broadcastreceiver.singlebroadcaststaticregistration.Receiver"
+30-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:23:13-37
+31            android:exported="false"
+31-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:24:13-37
+32            android:permission="android.permission.VIBRATE" >
+32-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:25:13-60
+33            <intent-filter>
+33-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:26:13-28:29
+34                <action android:name="course.examples.broadcastreceiver.singlebroadcaststaticregistration.SHOW_TOAST" />
+34-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:27:17-121
+34-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\BcastRecSinBcastStatReg\app\src\main\AndroidManifest.xml:27:25-118
+35            </intent-filter>
+36        </receiver>
+37    </application>
+38
+39</manifest>

@@ -1,0 +1,16 @@
+course.examples.datamanagement.fileexternal:style/MaterialTheme = 0x7f080000
+course.examples.datamanagement.fileexternal:string/app_name = 0x7f070001
+course.examples.datamanagement.fileexternal:string/android_painter_desc = 0x7f070000
+course.examples.datamanagement.fileexternal:mipmap/ic_launcher = 0x7f050000
+course.examples.datamanagement.fileexternal:layout/main = 0x7f040000
+course.examples.datamanagement.fileexternal:id/linearLayout = 0x7f030001
+course.examples.datamanagement.fileexternal:id/image = 0x7f030000
+course.examples.datamanagement.fileexternal:dimen/activity_margin = 0x7f020000
+course.examples.datamanagement.fileexternal:color/white = 0x7f010006
+course.examples.datamanagement.fileexternal:color/accent = 0x7f010000
+course.examples.datamanagement.fileexternal:color/secondary_text = 0x7f010005
+course.examples.datamanagement.fileexternal:color/primary_text = 0x7f010004
+course.examples.datamanagement.fileexternal:raw/painter = 0x7f060000
+course.examples.datamanagement.fileexternal:color/primary_dark = 0x7f010003
+course.examples.datamanagement.fileexternal:color/edit_text = 0x7f010001
+course.examples.datamanagement.fileexternal:color/primary = 0x7f010002

@@ -1,0 +1,9 @@
+course/examples/services/musicservice/MusicService.java
+ course.examples.services.musicservice.MusicService
+ course.examples.services.musicservice.MusicService$1
+course/examples/services/musicservice/BuildConfig.java
+ course.examples.services.musicservice.BuildConfig
+course/examples/services/musicservice/MusicServiceClient.java
+ course.examples.services.musicservice.MusicServiceClient
+ course.examples.services.musicservice.MusicServiceClient$1
+ course.examples.services.musicservice.MusicServiceClient$2

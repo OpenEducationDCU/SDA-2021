@@ -1,0 +1,4 @@
+course/examples/datamanagement/fileexternal/BuildConfig.java
+ course.examples.datamanagement.fileexternal.BuildConfig
+course/examples/datamanagement/fileexternal/ExternalFileWriteReadActivity.java
+ course.examples.datamanagement.fileexternal.ExternalFileWriteReadActivity

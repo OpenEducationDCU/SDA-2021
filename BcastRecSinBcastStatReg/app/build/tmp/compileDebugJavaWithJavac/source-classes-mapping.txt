@@ -1,0 +1,6 @@
+course/examples/broadcastreceiver/singlebroadcaststaticregistration/BuildConfig.java
+ course.examples.broadcastreceiver.singlebroadcaststaticregistration.BuildConfig
+course/examples/broadcastreceiver/singlebroadcaststaticregistration/Receiver.java
+ course.examples.broadcastreceiver.singlebroadcaststaticregistration.Receiver
+course/examples/broadcastreceiver/singlebroadcaststaticregistration/SimpleBroadcastActivity.java
+ course.examples.broadcastreceiver.singlebroadcaststaticregistration.SimpleBroadcastActivity

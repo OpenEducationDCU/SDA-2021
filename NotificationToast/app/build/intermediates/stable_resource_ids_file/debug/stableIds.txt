@@ -1,0 +1,15 @@
+course.examples.notification.toast:string/youre_toast_string = 0x7f060002
+course.examples.notification.toast:style/MaterialTheme = 0x7f070000
+course.examples.notification.toast:string/show_toast_string = 0x7f060001
+course.examples.notification.toast:color/primary_dark = 0x7f010003
+course.examples.notification.toast:color/secondary_text = 0x7f010005
+course.examples.notification.toast:layout/main = 0x7f040000
+course.examples.notification.toast:dimen/activity_margin = 0x7f020000
+course.examples.notification.toast:color/primary_text = 0x7f010004
+course.examples.notification.toast:string/app_name = 0x7f060000
+course.examples.notification.toast:color/accent = 0x7f010000
+course.examples.notification.toast:color/primary = 0x7f010002
+course.examples.notification.toast:color/white = 0x7f010006
+course.examples.notification.toast:mipmap/ic_launcher = 0x7f050000
+course.examples.notification.toast:id/toast_button = 0x7f030000
+course.examples.notification.toast:color/edit_text = 0x7f010001

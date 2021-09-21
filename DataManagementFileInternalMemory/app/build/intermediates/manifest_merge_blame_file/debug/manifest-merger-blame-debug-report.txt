@@ -1,0 +1,43 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="course.examples.datamanagement.fileinternal" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="23"
+6-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="28" />
+7-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml
+8
+9    <application
+9-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml:6:5-21:19
+10        android:allowBackup="false"
+10-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml:7:9-36
+11        android:debuggable="true"
+12        android:extractNativeLibs="false"
+13        android:icon="@mipmap/ic_launcher"
+13-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml:8:9-43
+14        android:label="@string/app_name"
+14-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml:9:9-41
+15        android:testOnly="true"
+16        android:theme="@style/MaterialTheme" >
+16-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml:10:9-45
+17        <activity
+17-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml:12:9-19:20
+18            android:name="course.examples.datamanagement.fileinternal.InternalFileWriteReadActivity"
+18-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml:13:13-58
+19            android:label="@string/app_name" >
+19-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml:14:13-45
+20            <intent-filter>
+20-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml:15:13-18:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml:16:17-69
+21-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml:16:25-66
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml:17:17-77
+23-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\DataManagementFileInternalMemory\app\src\main\AndroidManifest.xml:17:27-74
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>

@@ -1,0 +1,5 @@
+course/examples/newmaplocationfromcontacts/BuildConfig.java
+ course.examples.newmaplocationfromcontacts.BuildConfig
+course/examples/newmaplocationfromcontacts/NewMapLocationFromContactsActivity.java
+ course.examples.newmaplocationfromcontacts.NewMapLocationFromContactsActivity
+ course.examples.newmaplocationfromcontacts.NewMapLocationFromContactsActivity$1

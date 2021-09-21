@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\SDA-2020\\notifydemo\\app\\build\\intermediates\\res\\merged\\debug\\raw_alarm_rooster.mp3.flat",
+        "source": "E:\\SDA-2020\\notifydemo\\app\\src\\main\\res\\raw\\alarm_rooster.mp3"
+    },
+    {
+        "merged": "E:\\SDA-2020\\notifydemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\SDA-2020\\notifydemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\SDA-2020\\notifydemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "E:\\SDA-2020\\notifydemo\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\SDA-2020\\notifydemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_stat_access_alarm.png.flat",
+        "source": "E:\\SDA-2020\\notifydemo\\app\\src\\main\\res\\drawable\\ic_stat_access_alarm.png"
+    }
+]
