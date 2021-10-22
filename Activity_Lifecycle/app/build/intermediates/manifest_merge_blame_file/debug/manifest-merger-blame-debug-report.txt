@@ -21,48 +21,48 @@
 21
 22    <uses-sdk
 23        android:minSdkVersion="23"
-23-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml
+23-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml
 24        android:targetSdkVersion="28" />
-24-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml
+24-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml
 25
 26    <application
-26-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:21:5-41:19
+26-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:21:5-41:19
 27        android:debuggable="true"
 28        android:extractNativeLibs="false"
 29        android:icon="@drawable/ic_launcher"
-29-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:22:18-54
+29-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:22:18-54
 30        android:label="@string/app_name"
-30-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:21:18-50
+30-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:21:18-50
 31        android:testOnly="true" >
 32        <activity
-32-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:25:9-31:20
+32-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:25:9-31:20
 33            android:name="com.example.android.lifecycle.ActivityA"
-33-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:25:19-44
+33-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:25:19-44
 34            android:launchMode="singleTask" >
-34-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:26:13-44
+34-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:26:13-44
 35            <intent-filter>
-35-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:27:13-30:29
+35-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:27:13-30:29
 36                <action android:name="android.intent.action.MAIN" />
-36-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:28:17-69
-36-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:28:25-66
+36-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:28:17-69
+36-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:28:25-66
 37
 38                <category android:name="android.intent.category.LAUNCHER" />
-38-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:29:17-77
-38-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:29:27-74
+38-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:29:17-77
+38-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:29:27-74
 39            </intent-filter>
 40        </activity>
 41        <activity android:name="com.example.android.lifecycle.ActivityB" />
-41-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:33:9-47
-41-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:33:19-44
+41-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:33:9-47
+41-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:33:19-44
 42        <activity android:name="com.example.android.lifecycle.ActivityC" />
-42-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:35:9-47
-42-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:35:19-44
+42-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:35:9-47
+42-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:35:19-44
 43        <activity
-43-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:37:9-39:20
+43-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:37:9-39:20
 44            android:name="com.example.android.lifecycle.DialogActivity"
-44-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:37:19-49
+44-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:37:19-49
 45            android:theme="@android:style/Theme.Dialog" >
-45-->C:\SDA\2021\SDA-2020-master\SDA-2020-master\Activity_Lifecycle\app\src\main\AndroidManifest.xml:38:19-62
+45-->C:\SDA\2021\GitHub\SDA-2021\Activity_Lifecycle\app\src\main\AndroidManifest.xml:38:19-62
 46        </activity>
 47    </application>
 48
