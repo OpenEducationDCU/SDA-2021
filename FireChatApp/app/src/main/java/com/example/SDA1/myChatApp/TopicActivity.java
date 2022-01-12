@@ -1,4 +1,5 @@
-package com.example.SDA1.firechatapp;
+package com.example.SDA1.myChatApp;
+
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -30,8 +31,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.google.firebase.iid.FirebaseInstanceId;
-import com.google.firebase.iid.InstanceIdResult;
+import com.google.firebase.messaging.FirebaseMessaging;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -64,6 +64,7 @@ public class TopicActivity extends AppCompatActivity {
         setContentView(R.layout.activity_topic);
 
         //set the toolbar and the home button
+        
         Toolbar toolbar = findViewById(R.id.topic_toolbar);
         setSupportActionBar(toolbar);
 
@@ -212,22 +213,24 @@ public class TopicActivity extends AppCompatActivity {
 
         if (id == R.id.action_token) {
             // [START retrieve_current_token]
-            FirebaseInstanceId.getInstance().getInstanceId()
-                    .addOnCompleteListener(new OnCompleteListener<InstanceIdResult>() {
+            FirebaseMessaging.getInstance().getToken().
+                    addOnCompleteListener(new OnCompleteListener<String>() {
                         @Override
-                        public void onComplete(@NonNull Task<InstanceIdResult> task) {
+                        public void onComplete(@NonNull Task<String> task) {
                             if (!task.isSuccessful()) {
                                 Log.w(TAG, "getInstanceId failed", task.getException());
                                 return;
                             }
 
                             // Get new Instance ID token
-                            String token = task.getResult().getToken();
+                            String token = task.getResult();
                             Log.d(TAG, token);
                             Toast.makeText(TopicActivity.this, token, Toast.LENGTH_SHORT).show();
                         }
                     });
             // [END retrieve_current_token]
+
+
         }
         return super.onOptionsItemSelected(item);
     }

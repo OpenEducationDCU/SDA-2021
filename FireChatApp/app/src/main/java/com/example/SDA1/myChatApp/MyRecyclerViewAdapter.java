@@ -1,4 +1,4 @@
-package com.example.SDA1.firechatapp;
+package com.example.SDA1.myChatApp;
 
 import android.content.Context;
 import android.view.LayoutInflater;

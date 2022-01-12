@@ -1,4 +1,4 @@
-package com.example.SDA1.firechatapp;
+package com.example.SDA1.myChatApp;
 
 /*
  * Copyright Google Inc. All Rights Reserved.

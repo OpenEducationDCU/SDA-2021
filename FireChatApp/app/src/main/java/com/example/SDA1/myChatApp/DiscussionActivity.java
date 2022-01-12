@@ -1,4 +1,5 @@
-package com.example.SDA1.firechatapp;
+package com.example.SDA1.myChatApp;
+
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -31,12 +32,12 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.iid.FirebaseInstanceId;
-import com.google.firebase.iid.InstanceIdResult;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.OnProgressListener;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
+
+import com.google.firebase.messaging.FirebaseMessaging;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -45,7 +46,7 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.UUID;
 
-import static com.example.SDA1.firechatapp.TopicActivity.USER_NAME_KEY;
+import static com.example.SDA1.myChatApp.TopicActivity.USER_NAME_KEY;
 
 public class DiscussionActivity extends AppCompatActivity {
 
@@ -299,21 +300,23 @@ public class DiscussionActivity extends AppCompatActivity {
         }
         if (id == R.id.action_token) {
             // [START retrieve_current_token]
-            FirebaseInstanceId.getInstance().getInstanceId()
-                    .addOnCompleteListener(new OnCompleteListener<InstanceIdResult>() {
+            FirebaseMessaging.getInstance().getToken().
+                    addOnCompleteListener(new OnCompleteListener<String>() {
                         @Override
-                        public void onComplete(@NonNull Task<InstanceIdResult> task) {
+                        public void onComplete(@NonNull Task<String> task) {
                             if (!task.isSuccessful()) {
                                 Log.w(TAG, "getInstanceId failed", task.getException());
                                 return;
                             }
 
                             // Get new Instance ID token
-                            String token = Objects.requireNonNull(task.getResult()).getToken();
+
+                            String token = Objects.requireNonNull(task.getResult());
                             Log.d(TAG, token);
                             Toast.makeText(DiscussionActivity.this, token, Toast.LENGTH_SHORT).show();
                         }
                     });
+
             // [END retrieve_current_token]
         }
         return super.onOptionsItemSelected(item);

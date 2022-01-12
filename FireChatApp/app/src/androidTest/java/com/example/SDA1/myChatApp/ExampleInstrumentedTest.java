@@ -1,4 +1,4 @@
-package com.example.SDA1.firechatapp;
+package com.example.SDA1.myChatApp;
 
 //import androidx.test.ext.junit.runners.AndroidJUnit4;
 import androidx.test.runner.AndroidJUnit4;
@@ -18,6 +18,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         //Context appContext = InstrumentationRegistry.getTargetContext();
 
-        //assertEquals("com.example.SDA.firechatapp", appContext.getPackageName());
+        //assertEquals("com.example.SDA.myChatApp", appContext.getPackageName());
     }
 }
